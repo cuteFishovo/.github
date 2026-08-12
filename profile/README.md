@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%96%B6+cuteFish+%C2%B7+%E4%B8%8B%E5%8C%97%E6%B3%BD%E5%80%92%E4%B8%80%E8%87%AA%E7%94%B1%E4%BA%BA;%E2%96%B6+Build+Stuff+%C2%B7+Break+Stuff+%C2%B7+Fix+Stuff;%E2%96%B6+%E5%AE%AB%E5%B4%8E%E5%8E%BF%E7%AC%AC%E4%B8%80%E4%BF%A1%E6%81%AF%E4%BD%8D%E6%9C%89%E9%A9%AC%E5%8A%A0%E5%A5%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=cuteFish;%E4%B8%8B%E5%8C%97%E6%B3%BD%E5%80%92%E4%B8%80%E8%87%AA%E7%94%B1%E4%BA%BA;%E5%B1%B1%E7%94%B0%E5%87%89" alt="Typing SVG" />
 
 <br/>
-
-<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cuteFishovo&color=8b5cf6&style=flat-square&label=VISITORS)](https://github.com/cuteFishovo)
 [![GitHub followers](https://img.shields.io/github/followers/cuteFishovo?color=a78bfa&logo=github&style=flat-square&label=FOLLOW)](https://github.com/cuteFishovo)
 [![QQ](https://img.shields.io/badge/QQ-1003294905-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](http://wpa.qq.com/msgrd?v=3&uin=1003294905&site=web&menu=yes)
 [![Bilibili](https://img.shields.io/badge/Bilibili-1071531206-00a1d6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1071531206)
 [![Blog](https://img.shields.io/badge/BLOG-blog.pc--tool.cn-6d28d9?style=flat-square&logo=vercel&logoColor=white)](https://blog.pc-tool.cn/)
-
-</div>
 
 <br/>
 
@@ -33,17 +29,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cuteFishovo/cuteFishovo/main/assets/divider.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
 
 ```python
 {
     "name"       : "cuteFish",
     "alias"      : "下北沢倒一自由人",
+    "aka"        : "山田凉",
     "role"       : "全栈摸索中",
     "location"   : "CN · 下北泽",
     "motto"      : "写 bug 不可怕，修不好才可怕",
@@ -59,13 +50,9 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cuteFishovo/cuteFishovo/main/assets/divider.svg" width="100%" />
-</div>
-
-<br/>
+<p align="center">
+  <samp>━━━━━━━━━━ ❖ ━━━━━━━━━━</samp>
+</p>
 
 ## 🚀 PINNED · PROJECTS
 
@@ -164,13 +151,9 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cuteFishovo/cuteFishovo/main/assets/divider.svg" width="100%" />
-</div>
-
-<br/>
+<p align="center">
+  <samp>━━━━━━━━━━ ❖ ━━━━━━━━━━</samp>
+</p>
 
 ## 📊 GITHUB · STATS
 
@@ -189,19 +172,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cuteFishovo/cuteFishovo/main/assets/divider.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
 
 ```text
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
   ║    LIVE → LAUGH → CODE → CRASH → DEBUG → DEPLOY → REPEAT    ║
   ║                                                              ║
-  ║              ── 下北沢倒一自由人 cuteFish ──                ║
+  ║        ── 下北沢倒一自由人 山田凉 cuteFish ──              ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -211,10 +188,6 @@
 <br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/cuteFishovo/cuteFishovo/main/assets/divider.svg" width="100%" />
-
-<br/>
 
 ![snake gif](https://raw.githubusercontent.com/cuteFishovo/cuteFishovo/output/github-contribution-grid-snake-dark.svg)
 
